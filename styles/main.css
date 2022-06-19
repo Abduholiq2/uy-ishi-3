@@ -1,0 +1,16 @@
+body {
+  background-color: brown;
+  text-align: center;
+}
+ul { width: 100; height: 100;
+  background-color: beige;
+  display:inline-block;
+  text-align: center;
+}
+li {
+  list-style:none;
+  color: rgb(223, 61, 61);
+}
+strong {
+  color: black;
+}
